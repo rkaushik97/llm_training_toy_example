@@ -219,3 +219,12 @@ __marimo__/
 
 # Model checkpoints (too large for GitHub)
 checkpoints/
+
+# Model weights / training outputs
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+checkpoint-*/
+hf-nlp/my_awesome_model/
